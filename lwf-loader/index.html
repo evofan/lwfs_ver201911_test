@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="format-detection" content="telephone=no">
+  <meta name="viewport"
+    content="width=device-width,initial-scale=1.0,user-scalable=no,maximum-scale=1.0,minimum-scale=1.0" />
+
+  <link rel="stylesheet" type="text/css" href="css/sample.css">
+  <script type="text/javascript" src="js/lwf.js"></script>
+  <script type="text/javascript" src="js/underscore-min.js"></script>
+  <script type="text/javascript" src="js/lwf-loader.min.js"></script>
+
+  <script type="text/javascript">
+    var paramHandler = function (pElement) {
+      return {
+        handler: {
+          loadError: function (e) {
+            console.log(e);
+          },
+
+          exception: function (e) {
+            console.log(e);
+          }
+        }
+      }
+    };
+
+    var paramCallback = function (pElement) {
+      return {
+        callback: {
+          onLoad: function (pLwf) {
+            console.log(pLwf);
+          }
+        }
+      }
+    };
+
+    var setting = {
+      lwf: "lwf_hit_cat.lwf",
+      prefix: "./lwf_hit_cat/",
+      imagePrefix: "./lwf_hit_cat/",
+      renderer: 'canvas',
+      privateData: {},
+      onprogress: function (loadedCount, total) {
+        var myLoadingElem = document.getElementById("loading");
+        var myGaugeElem = myLoadingElem.querySelector("b.gauge");
+        var myPercentElem = myLoadingElem.querySelector("b.percent");
+
+        if (loadedCount == total) {
+          myLoadingElem.parentNode.removeChild(myLoadingElem);
+        } else {
+          var currentProgress = 100 * loadedCount / total;
+          myGaugeElem.style.width = myPercentElem.textContent = 'Now Loading: ' +
+            Math.ceil(currentProgress / 2 + 50) + '%';
+        }
+      }
+    };
+
+    var lwfLoader = new window.LwfLoader();
+
+    window.addEventListener('DOMContentLoaded', function () {
+      var element = document.getElementById('view-lwf');
+      lwfLoader.addInitializeHook(paramHandler);
+      lwfLoader.addInitializeHook(paramCallback);
+      lwfLoader.playLWF(element, setting);
+    });
+  </script>
+</head>
+
+<body>
+  <p class="header"><span>LWF for HTML5 using LWF Loader - sample</span></p>
+  <div id='view-lwf' class='lwf' style="width:200px; height:200px; margin:0 auto;">
+    <div id="loading"><b class="gauge percent"></b></div>
+  </div>
+  <p>Touch to repeat.<br>&nbsp;</p>
+  <p>
+    <a href="http://gree.github.com/lwf/" target="_blank"><img src="http://gree.github.com/lwf-demo/images/LWF-logo.png"
+        width="130" height="68" alt=""></a>
+  </p>
+</body>
+
+</html>
