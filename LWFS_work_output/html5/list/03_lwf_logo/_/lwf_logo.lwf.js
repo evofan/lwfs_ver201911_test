@@ -1,0 +1,3 @@
+global['LWF'] = global['LWF'] || {};
+global['LWF']['DataScript'] = global['LWF']['DataScript'] || {};
+global['LWF']['DataScript']['lwf_logo'] = "XQAAgAC0BQAAAAAAAAAmFcTJ+q7BunhOcGGTBEGv71nmXmCGXeoA49nC8RDJgEowkXNXScIsM5O/6iP8obq3XeNrFQV41Zy8HT8HCNNAa4lVkjGogXx0zx6ecpGguCZ70+SlVaUX+eyOf1hlMyTV+jynMMjCLWKqahK2sx8JBM1GOp+OW/jLbKPP+4Y6NDvWe3FhxUCCUFTqpEJy0PGgO8opjutwG0dbudb4MDRxfVcv4OHHFoOEZ8z/WJzTc14X3wllw2obHYb0nyoh9ZeFK+6RMCd5+A62z0UcJim9GIlMn8Rc6lLb8oehlSxxuZwRlD3+lAnXNg0QmbxeHy7coyUlDc1rwFGna4F6zr+r1bkomXwvuyy1qMIYSAy6rXVpAvQpHpNGKLzRyT1LWxbqq5UGizgcDS5K90UQJskXAJo8jaxivj8acbj8vtlH3GY+vOfasg==";
