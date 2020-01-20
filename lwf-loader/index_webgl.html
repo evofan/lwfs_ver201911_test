@@ -41,7 +41,7 @@
       lwf: "lwf_hit_cat.lwf",
       prefix: "./lwf_hit_cat/",
       imagePrefix: "./lwf_hit_cat/",
-      renderer: 'canvas',
+      renderer: 'webgl',
       privateData: {},
       onprogress: function (loadedCount, total) {
         var myLoadingElem = document.getElementById("loading");
@@ -70,7 +70,7 @@
 </head>
 
 <body>
-  <p class="header"><span>LWF for HTML5 using LWF Loader - sample(CANVAS)</span></p>
+  <p class="header"><span>LWF for HTML5 using LWF Loader - sample(WEBGL)</span></p>
   <div id='view-lwf' class='lwf' style="width:200px; height:200px; margin:0 auto;">
     <div id="loading"><b class="gauge percent"></b></div>
   </div>
@@ -79,7 +79,7 @@
     <a href="http://gree.github.com/lwf/" target="_blank"><img src="http://gree.github.com/lwf-demo/images/LWF-logo.png"
         width="130" height="68" alt=""></a>
   </p>
-  <p><a href="index_webgl.html">to WEBGL ver.</a></p>
+  <p><a href="index.html">to CANVAS ver.</a></p>
 </body>
 
 </html>
