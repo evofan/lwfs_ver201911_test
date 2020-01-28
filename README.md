@@ -6,6 +6,12 @@
 
 [https://evofan.github.io/lwfs_ver201911_test/lwf-loader/](https://evofan.github.io/lwfs_ver201911_test/lwf-loader/)  
 
+**TODO**  
+・画像がボケてるの直す（前のver.では大丈夫だったし、素材もそういう風に作ってるけど）  
+・rendererの指定をWEBGLで動く版を追加する（html内のcanvas→webglだけでは駄目っぽい？）  
+・Fix the blurred image (although it was okay in the previous version, and I made the material that way)  
+・Add a version that works with WEBGL to specify the renderer (cannot just use canvas → webgl in html?)  
+
 reference  
 
 LWF Wiki(Japanese)  
