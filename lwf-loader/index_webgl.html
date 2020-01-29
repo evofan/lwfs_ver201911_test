@@ -64,7 +64,7 @@
 
       // Configure the display settings of LwfLoader.
       let displaySetting = {
-        renderer: "canvas" // It works fine if written here
+        renderer: "webgl" // It works fine if written here
       };
 
       var lwfLoader = new window.LwfLoader();
@@ -76,14 +76,14 @@
         lwfLoader.setDisplaySetting(displaySetting); // Pass display related settings to LWF
         lwfLoader.playLWF(element, setting); // Making display-related settings for LWF
         console.log("FPS: ", lwfLoader.getCurrentFPS()); // Even if you call here, it is just after playback, so 0
-        console.log("Renderer: ", lwfLoader.getRenderer()); // Renderer:  useCanvasRenderer(default)
+        console.log("Renderer: ", lwfLoader.getRenderer()); // Renderer:  useWebGLRenderer
       });
     </script>
   </head>
 
   <body>
     <p class="header">
-      <span>LWF for HTML5 using LWF Loader - sample<br />(Canvas ver.)</span>
+      <span>LWF for HTML5 using LWF Loader - sample<br />(WebGL ver.)</span>
     </p>
     <div
       id="view-lwf"
@@ -93,7 +93,7 @@
       <div id="loading"><b class="gauge percent"></b></div>
     </div>
     <p class="red">Touch to repeat.</p>
-    <p><a href="index_webgl.html">Go to WebGL ver.</a></p>
+    <p><a href="index.html">Go to Canvas ver.</a></p>
     <p>
       <a href="http://gree.github.com/lwf/" target="_blank"
         ><img
