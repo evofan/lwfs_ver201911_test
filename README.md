@@ -1,4 +1,4 @@
-# Test to check the latest LWFS(201911) output file on a smartphone
+# Test to check the latest LWFS(201911) output file on a smartphone.
 
 ![https://evofan.github.io/lwfs_ver201911_test/pic_demo_screenshot.png](https://evofan.github.io/lwfs_ver201911_test/pic_demo_screenshot.png "image")  
 
