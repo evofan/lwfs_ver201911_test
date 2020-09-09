@@ -1,14 +1,14 @@
-# Test to check the latest LWFS(201911) output file on a smartphone.
-
-![https://evofan.github.io/lwfs_ver201911_test/pic_demo_screenshot.png](https://evofan.github.io/lwfs_ver201911_test/pic_demo_screenshot.png "image")  
+# Test to check the latest LWFS(202008) output file on a smartphone.
 
 **DEMO**  
 
 old ver. 20191112  
+![https://evofan.github.io/lwfs_ver201911_test/pic_demo_screenshot.png](https://evofan.github.io/lwfs_ver201911_test/pic_demo_screenshot.png "image")  
 [https://evofan.github.io/lwfs_ver201911_test/lwf-loader/](https://evofan.github.io/lwfs_ver201911_test/lwf-loader/)  
 [https://evofan.github.io/lwfs_ver201911_test/lwf-loader/index_webgl.html](https://evofan.github.io/lwfs_ver201911_test/lwf-loader/index_webgl.html)  
 
-new ver. 20200819(new lwf-loader.min.js usage)  
+new ver. 20200819 (new lwf-loader.min.js usage)  
+![https://evofan.github.io/lwfs_ver201911_test/pic_lwf_webgl_202008_android.png](https://evofan.github.io/lwfs_ver201911_test/pic_lwf_webgl_202008_android.png "image")  
 [http://springdale.sakura.ne.jp/html5/list/lwf_hit_cat/index-canvas.html](http://springdale.sakura.ne.jp/html5/list/lwf_hit_cat/index-canvas.html)  
 [http://springdale.sakura.ne.jp/html5/list/lwf_hit_cat/index-webgl.html](http://springdale.sakura.ne.jp/html5/list/lwf_hit_cat/index-webgl.html)  
 
@@ -22,7 +22,7 @@ gree / lwfs
 >~~Latest release 20191112-1132~~  
 >Latest release 20200819-1812  
 
-LWF Loader  
+LWF Loader   
 [http://gree.github.io/lwf-loader/](http://gree.github.io/lwf-loader/)  
 LWF Loader Demos, Docs  
 
