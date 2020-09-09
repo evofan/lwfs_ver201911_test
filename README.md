@@ -4,8 +4,13 @@
 
 **DEMO**  
 
+old ver. 20191112  
 [https://evofan.github.io/lwfs_ver201911_test/lwf-loader/](https://evofan.github.io/lwfs_ver201911_test/lwf-loader/)  
 [https://evofan.github.io/lwfs_ver201911_test/lwf-loader/index_webgl.html](https://evofan.github.io/lwfs_ver201911_test/lwf-loader/index_webgl.html)  
+
+new ver. 20200819(new lwf-loader.min.js usage)  
+[http://springdale.sakura.ne.jp/html5/list/lwf_hit_cat/index-canvas.html](http://springdale.sakura.ne.jp/html5/list/lwf_hit_cat/index-canvas.html)  
+[http://springdale.sakura.ne.jp/html5/list/lwf_hit_cat/index-webgl.html](http://springdale.sakura.ne.jp/html5/list/lwf_hit_cat/index-webgl.html)  
 
 reference  
 
