@@ -1,4 +1,4 @@
-# Test to check the latest LWFS(202008) output file on a smartphone.
+# Test to check the latest LWFS output file on a smartphone.
 
 **DEMO**  
 
