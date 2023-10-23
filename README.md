@@ -27,7 +27,8 @@ gree / lwfs
 [https://github.com/gree/lwfs/releases/](https://github.com/gree/lwfs/releases/)  
 >~~Latest release 20191112-1132~~  
 >~~Latest release 20200819-1812~~  
->Latest release 20210706-1627  
+>~~Latest release 20210706-1627~~  
+>Latest release 20230925-2054  
 
 LWF Loader   
 [http://gree.github.io/lwf-loader/](http://gree.github.io/lwf-loader/)  
