@@ -2,22 +2,28 @@
 
 **DEMO**  
 
-old ver. 20191112  
-![https://evofan.github.io/lwfs_ver201911_test/screenshot/pic_demo_screenshot.png](https://evofan.github.io/lwfs_ver201911_test/screenshot/pic_demo_screenshot.png "image")  
-[https://evofan.github.io/lwfs_ver201911_test/lwf-loader/](https://evofan.github.io/lwfs_ver201911_test/lwf-loader/)  
-[https://evofan.github.io/lwfs_ver201911_test/lwf-loader/index_webgl.html](https://evofan.github.io/lwfs_ver201911_test/lwf-loader/index_webgl.html)  
+current ver. 20230925  
+![https://evofan.github.io/lwfs_ver201911_test/screenshot/pic_cap_iruka_pc.jpg](https://evofan.github.io/lwfs_ver201911_test/screenshot/pic_cap_iruka_pc.jpg "image")  
+![https://evofan.github.io/lwfs_ver201911_test/screenshot/pic_cap_iruka_sp.jpg](https://evofan.github.io/lwfs_ver201911_test/screenshot/pic_cap_iruka_sp.jpg "image")  
+[https://springdale.sakura.ne.jp/html5/list/06_iruka/index-webgl.html](https://springdale.sakura.ne.jp/html5/list/06_iruka/index-webgl.html)  
+[https://springdale.sakura.ne.jp/html5/list/06_iruka/index-canvas.html](https://springdale.sakura.ne.jp/html5/list/06_iruka/index-canvas.html)  
+
+old ver. 20210706  
+![https://evofan.github.io/lwfs_ver201911_test/screenshot/pic_screenshot20210706ver.jpg](https://evofan.github.io/lwfs_ver201911_test/screenshot/pic_screenshot20210706ver.jpg "image")  
+[http://springdale.sakura.ne.jp/20210706/html5/list/lwf_hit_cat/index-webgl.html](http://springdale.sakura.ne.jp/20210706/html5/list/lwf_hit_cat/index-webgl.html)  
+[http://springdale.sakura.ne.jp/20210706/html5/list/lwf_hit_cat/index-canvas.html](http://springdale.sakura.ne.jp/20210706/html5/list/lwf_hit_cat/index-canvas.html)  
 
 old ver. 20200819 (new lwf-loader.min.js usage)  
 ![https://evofan.github.io/lwfs_ver201911_test/screenshot/pic_lwf_webgl_202008_android.png](https://evofan.github.io/lwfs_ver201911_test/screenshot/pic_lwf_webgl_202008_android.png "image")  
 [http://springdale.sakura.ne.jp/html5/list/lwf_hit_cat/index-canvas.html](http://springdale.sakura.ne.jp/html5/list/lwf_hit_cat/index-canvas.html)  
 [http://springdale.sakura.ne.jp/html5/list/lwf_hit_cat/index-webgl.html](http://springdale.sakura.ne.jp/html5/list/lwf_hit_cat/index-webgl.html)  
 
-new ver. 20210706  
-![https://evofan.github.io/lwfs_ver201911_test/screenshot/pic_screenshot20210706ver.jpg](https://evofan.github.io/lwfs_ver201911_test/screenshot/pic_screenshot20210706ver.jpg "image")  
-[http://springdale.sakura.ne.jp/20210706/html5/list/lwf_hit_cat/index-webgl.html](http://springdale.sakura.ne.jp/20210706/html5/list/lwf_hit_cat/index-webgl.html)  
-[http://springdale.sakura.ne.jp/20210706/html5/list/lwf_hit_cat/index-canvas.html](http://springdale.sakura.ne.jp/20210706/html5/list/lwf_hit_cat/index-canvas.html)  
-　  
-
+old ver. 20191112  
+![https://evofan.github.io/lwfs_ver201911_test/screenshot/pic_demo_screenshot.png](https://evofan.github.io/lwfs_ver201911_test/screenshot/pic_demo_screenshot.png "image")  
+[https://evofan.github.io/lwfs_ver201911_test/lwf-loader/](https://evofan.github.io/lwfs_ver201911_test/lwf-loader/)  
+[https://evofan.github.io/lwfs_ver201911_test/lwf-loader/index_webgl.html](https://evofan.github.io/lwfs_ver201911_test/lwf-loader/index_webgl.html)  
+  
+  
 reference  
 
 LWF Wiki(Japanese)  
@@ -41,3 +47,8 @@ use cat asset(cat2.zip)
 Spector.js  
 [https://spector.babylonjs.com/](https://spector.babylonjs.com/)  
 Webgl inspector  
+
+TexturePacker  
+[https://www.codeandweb.com/texturepacker](https://www.codeandweb.com/texturepacker)  
+make texture atras  
+
