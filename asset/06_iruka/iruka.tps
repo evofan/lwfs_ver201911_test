@@ -167,7 +167,7 @@
             <key>trimThreshold</key>
             <uint>1</uint>
             <key>trimMargin</key>
-            <uint>1</uint>
+            <uint>5</uint>
             <key>trimMode</key>
             <enum type="SpriteSettings::TrimMode">Trim</enum>
             <key>tracerTolerance</key>
@@ -233,6 +233,19 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">pic_iruka_05.bitmap/bitmap_reload_btn_yellow.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>25,25,50,50</rect>
+                <key>scale9Paddings</key>
+                <rect>25,25,50,50</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">pic_iruka_05.bitmap/bitmap_ukiwa.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -282,6 +295,7 @@
             <filename>pic_iruka_05.bitmap/bitmap_mask_ukiwa2.png</filename>
             <filename>pic_iruka_05.bitmap/bitmap_ukiwa.png</filename>
             <filename>pic_iruka_05.bitmap/bitmap_ukiwa_mask1.png</filename>
+            <filename>pic_iruka_05.bitmap/bitmap_reload_btn_yellow.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
