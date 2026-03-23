@@ -36,7 +36,8 @@ gree / lwfs
 >~~Latest release 20191112-1132~~  
 >~~Latest release 20200819-1812~~  
 >~~Latest release 20210706-1627~~  
->Latest release 20230925-2054  
+>~~Latest release 20230925-2054~~  
+>Latest release 20250523-1117
 
 LWF Loader   
 [http://gree.github.io/lwf-loader/](http://gree.github.io/lwf-loader/)  
