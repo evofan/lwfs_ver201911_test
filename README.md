@@ -1,11 +1,13 @@
 # Test to check the latest LWFS output file on a smartphone.
 
+**DEMO**  
+
 current ver. 20250523  
 
 ![https://evofan.github.io/lwfs_ver201911_test/screenshot/pic_20260323a.png](https://evofan.github.io/lwfs_ver201911_test/screenshot/pic_20260323a.png "image")  
 ![https://evofan.github.io/lwfs_ver201911_test/screenshot/pic_20260323b.png](https://evofan.github.io/lwfs_ver201911_test/screenshot/pic_20260323b.png "image")  
-
-**DEMO**  
+[https://springdale.sakura.ne.jp/html5/list/06_ring/index-webgl.html](https://springdale.sakura.ne.jp/html5/list/06_ring/index-webgl.html)  
+[https://springdale.sakura.ne.jp/html5/list/06_ring/index-canvas.html](https://springdale.sakura.ne.jp/html5/list/06_ring/index-canvas.html)  
 
 ver. 20230925  
 ![https://evofan.github.io/lwfs_ver201911_test/screenshot/pic_cap_iruka_pc.jpg](https://evofan.github.io/lwfs_ver201911_test/screenshot/pic_cap_iruka_pc.jpg "image")  
