@@ -62,3 +62,19 @@ TexturePacker
 [https://www.codeandweb.com/texturepacker](https://www.codeandweb.com/texturepacker)  
 make texture atras  
 
+Adobe CS6 エラー対策 FAQ  
+※2026.03 Windwos11に今までのようにインストール出来なかったため  
+Q.	[完全オフラインでのインストール] 失敗が発生しにくいインストール  
+A.	スムーズにインストールできる場合のほうが多いですが、  
+ご利用環境によってはスムーズにインストールできない場合もあります。  
+※ご利用環境によっては稀にインストールが失敗するので0.5の段階でAAMバージョンアップの対応をしてください。  
+　(ご利用環境によっては上記 0.のアンインストールの際にAAMが自動削除されるケースがあります)  
+0.5. Adobe_Application_Managerダウンロード（AAMバージョンアップ）  
+　　 https://download.adobe.com/pub/adobe/creativesuite/cc/win/ASUx4_9_0_48.zip  
+　　 手順：ダウンロード  
+　　 ⇒解凍  
+　　 ⇒Adobe_Application_Manager_Set-Up.exeダブルクリック  
+　　 ⇒ユーザーアカウント制御「はい」  
+　　 ⇒表示された画面でAdobeにログインorアカウント新規作成で自動でインストール開始  
+　　 ⇒インストールが完了すれば画面が自動で消える(完了通知なし)  
+　　……
